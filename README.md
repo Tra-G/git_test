@@ -1,2 +1,3 @@
 # git_test
-Odin test on git task
+My first Github repo
+Hello Odin
